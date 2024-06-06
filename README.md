@@ -1,6 +1,6 @@
 # Heuristic Algorithm (SA/Farthest/Nearest/2-Opt) for TSP
 
-以Farthest Insertion最遠插入法與Nearest Insertion最近插入法，分別求取旅行銷售員問題（TSP）的初步解，後以2-Opt局部搜尋法與Simulated Annealing模擬退火法分別改善結果。
+此專案針對旅行銷售員問題（TSP）求取最小總路徑成本，以Farthest Insertion最遠插入法與Nearest Insertion最近插入法，分別求取旅行銷售員問題（TSP）的初步解，後以2-Opt局部搜尋法與Simulated Annealing模擬退火法分別改善結果。
 <br>
 
 ## Farthest / Nearest 插入法
