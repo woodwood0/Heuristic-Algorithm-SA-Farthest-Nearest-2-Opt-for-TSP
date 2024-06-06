@@ -23,6 +23,7 @@
 ![資料說明](https://github.com/woodwood0/Heuristic-Algorithm-SA-Farthest-Nearest-2-Opt-for-TSP/assets/171545924/94e613e8-c134-4b32-9ccc-6e52eeac7ecc)
 <br>
 <br>
+
 ## 2-Opt 局部搜尋法
 ### 流程
 
@@ -36,7 +37,7 @@
    重複前步驟1，直到所有能使總路徑減少的可能交換完畢為止。<br>
 <br>
 <br>
-<br>
+
 ## SA 模擬退火法
 ### 流程
 
